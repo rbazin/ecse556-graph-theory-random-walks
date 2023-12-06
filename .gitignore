@@ -1,3 +1,12 @@
 venv
 9606.hn_HS_CX.edge
 .DS_Store
+node2vec
+embeddings
+models
+subgraphs
+assets
+results
+cleaned_graph.edge
+cleaned_nodes_arr.pkl
+slurm*
